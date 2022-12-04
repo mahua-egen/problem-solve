@@ -1,4 +1,4 @@
-public class Main {
+public class cyclicRotation {
     public static void main(String[] args) {
         int array[] = {3, 8, 9, 7, 6};
         int k = 3;
